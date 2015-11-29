@@ -1,0 +1,14 @@
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\bin\Debug\servicewpf.exe.config
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\bin\Debug\servicewpf.exe
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\bin\Debug\servicewpf.pdb
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.csprojResolveAssemblyReference.cache
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\MainWindow.g.cs
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\App.g.cs
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf_MarkupCompile.cache
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf_MarkupCompile.lref
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\MainWindow.baml
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.g.resources
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.Properties.Resources.resources
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.csproj.GenerateResource.Cache
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.exe
+D:\Windows Phone Sample\servicewpf\servicewpf\servicewpf\obj\Debug\servicewpf.pdb
